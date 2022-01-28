@@ -263,7 +263,7 @@ return [
         'MSP_TwoFactorAuth' => 1,
         'Temando_ShippingRemover' => 1,
         'Training_Module1' => 1,
-        'Training_Module2' => 1,
+        'Training_Module2' => 0,
         'Vertex_Tax' => 1,
         'Vertex_AddressValidation' => 1,
         'Yotpo_Yotpo' => 1

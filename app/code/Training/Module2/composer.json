@@ -1,0 +1,20 @@
+{
+    "name": "Training/Module2",
+    "description": "N/A",
+    "config": {
+        "sort-packages": true
+    },
+    "require": {
+        "Training/Module1" : "1.0.*"
+    },
+    "type": "magento2-module",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Training\\Module2\\": ""
+        }
+    },
+    "version": "1.0.0"
+}
