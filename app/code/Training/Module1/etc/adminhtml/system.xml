@@ -17,7 +17,7 @@
                     <label>Yes/No</label>
                     <source_model>Magento\Config\Model\Config\Source\Yesno</source_model>
                 </field>
-                <field id="text" translate="label" type="text" showInDefault="1"
+                <field id="training_text" translate="label" type="text" showInDefault="1"
                        showInWebsite="1" showInStore="1" canRestore="1">
                     <label>Text</label>
                 </field>

@@ -3,7 +3,7 @@
     <default>
         <training>
             <enable>0</enable>
-            <text>Default</text>
+            <training_text>Default</training_text>
         </training>
     </default>
 </config>
